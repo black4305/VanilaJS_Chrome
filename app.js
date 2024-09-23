@@ -1,0 +1,1 @@
+console.log('happy!'); // ' 또는 " 둘 다 사용 가능
